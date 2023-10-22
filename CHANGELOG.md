@@ -124,6 +124,12 @@ Format:
 - Fix artifacts not being saved in GitHub. See https://github.com/SuffolkLITLab/ALKiln/issues/629.
 - Make internal test folder names a bit simpler and more modular-izable.
 
+
+## [4.10.1] - 2023-01-07
+### Changed
+- Fix artifacts not being saved in GitHub. See https://github.com/SuffolkLITLab/ALKiln/issues/629.
+- Make internal test folder names a bit simpler and more modular-izable.
+
 ## [4.10.0] - 2022-11-17
 ### Changed
 - Don't mark `...there_in_another | False |` in story tables as invalid, as it's necessary for some
