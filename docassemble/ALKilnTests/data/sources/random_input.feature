@@ -1,4 +1,4 @@
-@random_input
+@random
 Feature: Random input
 
 # TODO: get navigation worked out before re-implementing
@@ -21,6 +21,7 @@ Scenario: I fill in random input for 1 page
 
 # Should create two unique folders for random step screenshots which
 # must be checked manually
+
 @fast @ri3 @random
 Scenario: I answer randomly till the end twice
   Given I start the interview at "test_random_input"
